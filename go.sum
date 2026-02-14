@@ -4,6 +4,8 @@ github.com/Autoshi-k/context v0.0.0-20260214004255-77f2fe3cf75b h1:r935VpqzoYI5+
 github.com/Autoshi-k/context v0.0.0-20260214004255-77f2fe3cf75b/go.mod h1:WcoVMzXpgZ7CneXEh12pBfWjY2ZnQOZBefPO37ndReM=
 github.com/Autoshi-k/dbtx v0.0.0-20260214142146-39d951d31193 h1:3+A6QoD0nNnoc7oQbQa2fwgIHm68Gu0Es+c4NdmGT8M=
 github.com/Autoshi-k/dbtx v0.0.0-20260214142146-39d951d31193/go.mod h1:W6bqOnFLwVw/dSWh5bgwaEXuQ/AmoXOfWYvkJgf3pYs=
+github.com/Autoshi-k/dbtx v0.0.0-20260214155841-83015c68810a h1:s2g+7Apnal87dZyMnBeXKLpQQzlVR4eMWRjTzOrzF1I=
+github.com/Autoshi-k/dbtx v0.0.0-20260214155841-83015c68810a/go.mod h1:W6bqOnFLwVw/dSWh5bgwaEXuQ/AmoXOfWYvkJgf3pYs=
 github.com/Autoshi-k/servicereply v0.0.0-20260214003232-f010773d16a2 h1:5s+pNAxtUdpIeIS7E92L3R4gLWQY3fFcnGtxZEyGV5k=
 github.com/Autoshi-k/servicereply v0.0.0-20260214003232-f010773d16a2/go.mod h1:Qaxr20qQ9IQ9VN+8ZzIK2wSM2tlq5yiqybO89JPON8A=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

@@ -9,7 +9,7 @@ require (
 )
 
 require (
-	github.com/Autoshi-k/dbtx v0.0.0-20260214142146-39d951d31193 // indirect
+	github.com/Autoshi-k/dbtx v0.0.0-20260214155841-83015c68810a // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
 	github.com/jackc/pgx/v5 v5.8.0 // indirect

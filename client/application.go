@@ -3,6 +3,7 @@ package client
 import (
 	"log"
 	"net/http"
+	"os"
 	"template_ddd_service/domain/application"
 	"template_ddd_service/domain/client"
 
@@ -21,8 +22,8 @@ func RunApplicationClient(app application.ApplicationI) {
 	http.HandleFunc("/postExample", clientcore.POSTRequest[client.PostExampleRequest, client.PostExampleResponse](c.PostExample))
 	http.HandleFunc("/getExample", clientcore.GETRequest[client.GetExampleRequest, client.GetExampleResponse](c.GetExample))
 
-	log.Println("Serving on :8000")
-	log.Fatal(http.ListenAndServe(":8000", nil))
+	log.Println("Serving on :" + os.Getenv("PORT"))
+	log.Fatal(http.ListenAndServe(":"+os.Getenv("PORT"), nil))
 }
 
 func (c *applicationClient) PostExample(ctx context.Context, request client.PostExampleRequest) (response client.PostExampleResponse, err servicereply.ServiceReplyI) {
