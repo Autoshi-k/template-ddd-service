@@ -1,0 +1,6 @@
+github.com/Autoshi-k/clientcore v0.0.0-20260214005711-c6c1f5519b47 h1:axmv7761wZ+iebFm4peF+ywToT1iHpQNY/lBuzPFRYE=
+github.com/Autoshi-k/clientcore v0.0.0-20260214005711-c6c1f5519b47/go.mod h1:xAbo1sRmuMrDTG47AZVcr3yvky/rmcK4mpbbSn/UtCY=
+github.com/Autoshi-k/context v0.0.0-20260214004255-77f2fe3cf75b h1:r935VpqzoYI5+iuxr9Q5JGQW5gaFjIhVr3LWHWRgavs=
+github.com/Autoshi-k/context v0.0.0-20260214004255-77f2fe3cf75b/go.mod h1:WcoVMzXpgZ7CneXEh12pBfWjY2ZnQOZBefPO37ndReM=
+github.com/Autoshi-k/servicereply v0.0.0-20260214003232-f010773d16a2 h1:5s+pNAxtUdpIeIS7E92L3R4gLWQY3fFcnGtxZEyGV5k=
+github.com/Autoshi-k/servicereply v0.0.0-20260214003232-f010773d16a2/go.mod h1:Qaxr20qQ9IQ9VN+8ZzIK2wSM2tlq5yiqybO89JPON8A=
